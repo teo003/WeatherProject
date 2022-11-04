@@ -5,7 +5,7 @@ Use this project as a template for a Web App that uses an API and runs with Node
 ## Getting Started
 
   - Fork the project to your local system.
-  - Run ### `npm install` and ### `nodemon app.js`.
+  - Run `npm install` and `nodemon app.js`.
   - Open your browser on [http://localhost:3000](http://localhost:3000) to view the result.
 
 ### Prerequisites
