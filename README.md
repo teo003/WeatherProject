@@ -1,6 +1,6 @@
 # WeatherProject
 
-Basic Static Website!
+Use this project as a template for a Web App that uses an API and runs with Node.
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ Basic Static Website!
 
 ### Prerequisites
 
-  - Your own Weather API key. Get it here [https://openweathermap.org/api](OpenWeatherMap).
+  - Your own Weather API key. Get it here [https://openweathermap.org/api](https://openweathermap.org/api).
 
 ## Built With
 
