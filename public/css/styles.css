@@ -1,0 +1,140 @@
+html {
+  font-family: "Montserrat", sans-serif;
+}
+body {
+  background-color: #d8e9a8;
+  background-image: url("https://www.transparenttextures.com/patterns/gplay.png");
+  padding: 0 0px;
+}
+
+header {
+  background-color: #1E5128;
+  margin: auto -16px;
+  padding: 5px 32px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+header h1 {
+  color: #D8E9A8;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+}
+
+footer {
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+}
+
+footer p {
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+  padding-top: 1rem;
+  color: #191A19;
+}
+.data {
+  position: relative;
+  margin: 30px auto 20px auto;
+  background: #4E9F3D;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 5px;
+  width: 400px;
+  box-shadow: 0 1px 5px rgb(138, 137, 137);
+}
+.data h1 {
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+  color: #191A19;
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 6px;
+}
+.data p {
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+  color: #191A19;
+  text-align: center;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+.data img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.data button {
+  position: relative;
+  float: right;
+  margin-top: 1rem;
+  margin-left: 100px;
+  color: #f5ba13;
+  background-color: #09dd85;
+  border: none;
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  outline: none;
+}
+
+form {
+  position: relative;
+  width: 480px;
+  margin: 10px auto 20px auto;
+  background: #4E9F3D;
+  padding: 15px;
+  border-radius: 7px;
+  box-shadow: 0 1px 5px rgb(138, 137, 137);
+}
+form input,
+form textarea {
+  background: #4E9F3D;
+  width: 100%;
+  border: none;
+  padding: 4px;
+  outline: none;
+  font-size: 1.4em;
+  font-family: inherit;
+  resize: none;
+}
+form label{
+  font-size: 2rem;
+  color: #191A19;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+}
+
+.btn-go {
+  background: #4E9F3D;
+  background-image: -webkit-linear-gradient(top, #4E9F3D, #1E5128);
+  background-image: -moz-linear-gradient(top, #4E9F3D, #1E5128);
+  background-image: -ms-linear-gradient(top, #4E9F3D, #1E5128);
+  background-image: -o-linear-gradient(top, #4E9F3D, #1E5128);
+  background-image: linear-gradient(to bottom, #4E9F3D, #1E5128);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #d8e9a8;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+}
+
+.btn-go:hover {
+  background: #6bd953;
+  background-image: -webkit-linear-gradient(top, #6bd953, #2f8a3e);
+  background-image: -moz-linear-gradient(top, #6bd953, #2f8a3e);
+  background-image: -ms-linear-gradient(top, #6bd953, #2f8a3e);
+  background-image: -o-linear-gradient(top, #6bd953, #2f8a3e);
+  background-image: linear-gradient(to bottom, #6bd953, #2f8a3e);
+  text-decoration: none;
+}
