@@ -15,6 +15,7 @@ Use this project as a template for a Web App that uses an API and runs with Node
 ## Built With
 
   - HTML
+  - EJS
   - CSS
   - JS
 
